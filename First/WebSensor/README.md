@@ -2,7 +2,7 @@
 
 <div>
   <p>
-      In order to make a more complete introduction in the Arduino environment for the programming of an ESP32, we worked with a temperature and humidity sensor (DHT11) and then using the wifi to create a server to display the data from a local ip. 
+     In order to make a more complete introduction in the Arduino environment for the programming of an ESP32, we worked with a temperature and humidity sensor (DHT11) and then using the wifi to create a server to display the data from a local ip. In turn, the application of good practices such as the use of functions, structures or control structures. 
   </p>
 </div>
 
