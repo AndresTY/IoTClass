@@ -12,8 +12,8 @@
 #include "Arduino.h"
 
 // Replace with your network credentials
-const char* ssid = "CelMarce";
-const char* password = "SanDan1207";
+const char* ssid = "xxxxx";
+const char* password = "xxxxx";
 
 #define DHTPIN 27     // Digital pin connected to the DHT sensor
 #define lightInit 36
