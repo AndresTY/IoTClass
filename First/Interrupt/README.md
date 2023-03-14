@@ -45,4 +45,4 @@ void setup() {
 
 ## Circuit
 
-<img src="Interrupt/circuito.png">
+<img src="/First/Interrupt/circuito.png">
