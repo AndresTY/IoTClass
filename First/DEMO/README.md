@@ -5,3 +5,6 @@ For the first submission, the project idea is presented along with a demo for co
 ## Circuit
 
 <img src="/First/DEMO/DEMO.png">
+
+
+Worked with <a href = "https://github.com/weriko">Werikol<a>
