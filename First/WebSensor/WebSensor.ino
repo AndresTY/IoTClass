@@ -10,8 +10,8 @@
 #include <DHT.h>
 
 // Replace with your network credentials
-const char* ssid = "FAMILIA VELÁSQUEZ 5G";
-const char* password = "Marce1207";
+const char* ssid = "xxxxx";
+const char* password = "xxxx";
 
 #define DHTPIN 27     // Digital pin connected to the DHT sensor
 
